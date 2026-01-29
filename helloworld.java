@@ -1,7 +1,7 @@
 public class helloworld {
     public static void main(String[] args) {
         System.out.println("========================================");
-        System.out.println("    FACTS ABOUT 15 AUGUST");
+        System.out.println("    THE FACTS ABOUT 15 AUGUST");
         System.out.println("========================================\n");
         
         System.out.println("1. Independence Day of India");
